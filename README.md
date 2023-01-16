@@ -1,5 +1,5 @@
 # JS30 - Shift+Click List #
-Check out the deployed site [HERE]()
+Check out the deployed site [HERE](https://cbarber1984.github.io/js30-shift-click-list/)
 
 ## Objective ##
 - Utilize JavaScript to select a range of checkboxes
